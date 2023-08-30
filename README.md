@@ -1,5 +1,7 @@
 # AppUnique
-<img width="500" alt="Image" src="https://github.com/Astuces-iOS/AppUnique/assets/133143751/15768a11-5a03-4b5b-9661-8df64a04f30d">
+
+<img width="64" alt="Image" src="https://github.com/Astuces-iOS/AppUnique/assets/133143751/f46caf56-1db8-4e0e-a7cc-5bd4c8a72c1e">
+
 
 App unique est la meilleure alternative à stage manager disponible sans opencore !!
 
