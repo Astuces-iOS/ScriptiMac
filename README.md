@@ -11,7 +11,7 @@ App unique est la meilleure alternative à stage manager disponible sans opencor
 
 - Si vous preferez une autre interface plus simple, vous pouvez aussi télécharger UniApp (Par Samuel-F et iStuces) : https://github.com/istucesyt/UniApp
 
-Notez que UniApp n'est pas très différent de AppUnique car il se base surtout sur AppUnique
+Notez que UniApp contient que quelques nouvelles fonctionnalités de AppUnique 3.0
 
 # 💻 Compatibilité 
 
