@@ -7,11 +7,13 @@ App unique est la meilleure alternative à stage manager disponible sans opencor
 
 # 📗 À Propos
 
-- AppUnique active le mode Application Unique et l'Indicateur d'Applications Actives pour donner la meilleure alternative à Stage Manager
+- AppUnique active le mode Application Unique et l'Indicateur d'Applications Actives pour donner la meilleure alternative à Stage Manager.
+
+- AppUnique peut aussi activer d'autres modes comme le mode apps actives seulement. AppUnique contient plus de 5 utilitaires que vous pouvez utiliser.
 
 - Si vous preferez une autre interface plus simple, vous pouvez aussi télécharger UniApp (Par Samuel-F et iStuces) : https://github.com/istucesyt/UniApp
 
-Notez que UniApp contient que quelques nouvelles fonctionnalités de AppUnique 3.0
+Notez que AppUnique contient plus de fonctionnalités pour le moment
 
 # 💻 Compatibilité 
 
@@ -19,9 +21,9 @@ Notez que UniApp contient que quelques nouvelles fonctionnalités de AppUnique 3
 
 En tant que développeur j'utilise cette app même sur macOS Ventura ou ultérieur car j'aime l'alternative.
 
-# 🐛 En bêta Maintenant 
+# 🐛 En test Maintenant 
 
-- Nous testons la version 3.0 de l'application qui va contenir de nouvelles fonctionnalités et des chagement de l'UI. Cette version est disponible gratuitment via ce proget GitHub.
+- Nous testons la suppression des délais dans la version 3.0 publique de l'App
 
 # 📥 Me contacter
 
