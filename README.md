@@ -23,7 +23,7 @@ En tant que développeur j'utilise cette app même sur macOS Ventura ou ultérie
 
 # 🐛 En test Maintenant 
 
-- Le mode Application Unique Pro sera bientôt disponible.
+- Nous testons la fiabilité d'App Unique 3.1
 
 # 📥 Me contacter
 
