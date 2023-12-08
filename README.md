@@ -23,7 +23,7 @@ En tant que développeur j'utilise cette app même sur macOS Ventura ou ultérie
 
 # 🐛 En test Maintenant 
 
-- Nous testons la suppression des délais dans la version 3.0 publique de l'App
+- Le mode Application Unique Pro sera bientôt disponible.
 
 # 📥 Me contacter
 
