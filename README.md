@@ -13,8 +13,6 @@ App unique est la meilleure alternative à stage manager disponible sans opencor
 
 - Si vous préférez une autre interface plus simple, vous pouvez aussi télécharger UniApp (Par Samuel-F et iStuces) : https://github.com/istucesyt/UniApp
 
-Notez que AppUnique contient plus de fonctionnalités pour le moment
-
 # 💻 Compatibilité 
 
 - Cette App est compatible avec tout mac qui fonctionne sur macOS (OS X) 10.6 ou ultérieur et est compatible avec les Mac dotés d'une puce Apple (Silicone)
