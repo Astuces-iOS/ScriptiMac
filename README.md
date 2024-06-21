@@ -5,6 +5,8 @@
 
 App unique est la meilleure alternative à stage manager disponible sans opencore !!
 
+⚠️ La mise à jour vers macOS Sequoia va faire en sorte que le mode AppUnique ne fonctionne plus...
+
 # 📗 À Propos
 
 - AppUnique active le mode Application Unique et l'Indicateur d'Applications Actives pour donner la meilleure alternative à Stage Manager.
