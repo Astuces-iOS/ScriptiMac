@@ -1,4 +1,4 @@
-# AppUnique
+# ScriptiMac
 
 ![site](https://github.com/Astuces-iOS/AppUnique/assets/133143751/cb62d532-11c0-4224-8513-bd0bda058bc4)
 
