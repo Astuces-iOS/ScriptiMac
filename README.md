@@ -1,19 +1,17 @@
 # AppUnique
 
-<img width="64" alt="Image" src="https://github.com/Astuces-iOS/AppUnique/assets/133143751/f46caf56-1db8-4e0e-a7cc-5bd4c8a72c1e">
+![site](https://github.com/Astuces-iOS/AppUnique/assets/133143751/cb62d532-11c0-4224-8513-bd0bda058bc4)
 
 
-App unique est la meilleure alternative à stage manager disponible sans opencore !!
+ScriptiMac est la meilleure alternative à stage manager disponible sans opencore !!
 
 ⚠️ La mise à jour vers macOS Sequoia va faire en sorte que le mode AppUnique ne fonctionne plus...
 
 # 📗 À Propos
 
-- AppUnique active le mode Application Unique et l'Indicateur d'Applications Actives pour donner la meilleure alternative à Stage Manager.
+- ScriptiMac active plusieurs modes comme l'Indicateur d'Applications Actives pour donner la meilleure alternative à Stage Manager.
 
-- AppUnique peut aussi activer d'autres modes comme le mode apps actives seulement. AppUnique contient plus de 5 utilitaires que vous pouvez utiliser.
-
-- Si vous préférez une autre interface plus simple, vous pouvez aussi télécharger UniApp (Par Samuel-F et iStuces) : https://github.com/istucesyt/UniApp
+- ScriptiMac peut aussi activer d'autres modes comme le mode apps actives seulement. AppUnique contient plus de 5 utilitaires que vous pouvez utiliser.
 
 # 💻 Compatibilité 
 
@@ -23,7 +21,7 @@ En tant que développeur j'utilise cette app même sur macOS Ventura ou ultérie
 
 # 🐛 En test Maintenant 
 
-- Nous testons la fiabilité d'App Unique 3.1
+- Rien en test
 
 # 📥 Me contacter
 
